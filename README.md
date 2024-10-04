@@ -1,2 +1,1 @@
-# kind-setup-linux
-Kubernetes (K8s) in Docker helps manage multi-container applications with features like load balancing, self-healing, and service discovery across clusters.
+# KIND (k8 in dockers) Setup Linux
